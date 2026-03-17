@@ -1,1 +1,9 @@
-# all_about_me_20260317
+# 27회차(전공) 장재한
+
+> "나에 대한 모든 것" 이라는 프로젝트를 git으로 관리해보기
+
+> 이름, 나이, 희망 직군
+
+- 이름 : **장재한**
+- 나이 : _26세_
+- 희망 직군 : [풀스택 개발자](https://www.google.com/search?q=%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90&oq=%ED%92%80%EC%8A%A4%ED%83%9D+%EA%B0%9C%EB%B0%9C%EC%9E%90&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI3MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
